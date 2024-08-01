@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav-link {
+    color: white;
+    font-family: "Oswald", sans-serif;
+    font-size: 16px;
+}
+
+.nav-link:hover {
+    color: #ab8b65;
+}
+
+#a1 {
+    color: #ab8b65;
+}
+
+#a1:hover {
+    color: white;
+}
+
+.p1 {
+    font-size: 40px;
+    font-family: "Oswald", sans-serif;
+}
+
+.p3 {
+    font-size: 30px;
+    font-family: "Oswald", sans-serif;
+    letter-spacing: -2px;
+}
+
+.container img {
+    height: 370px;
+    width: 450px;
+}
